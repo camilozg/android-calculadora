@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="divide_zero_error">cannot divide by zero</string>
+    <string name="share_button_text">Share</string>
+</resources>
